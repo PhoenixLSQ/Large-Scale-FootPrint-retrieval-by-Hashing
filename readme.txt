@@ -1,1 +1,1 @@
-B_SumShoe_LSH，此文件为用LSH按照database10096和testImgLabel_72两个mat文件提取的特征后的分别编码。
+B_SumShoe_LSH，此文件为用LSH,SH及PQ等方法按照database10096和testImgLabel_72两个mat文件提取的特征后的分别编码。
